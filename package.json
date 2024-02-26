@@ -1,0 +1,23 @@
+{
+  "name": "easy-utils-greg",
+  "version": "1.0.0",
+  "description": "EasyUtils is a lightweight JavaScript library that provides a set of helper functions for common tasks.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node utils.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "crypto-list-greg": "1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregthomson0550/easy-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregthomson0550/easy-utils/issues"
+  },
+  "homepage": "https://github.com/gregthomson0550/easy-utils#readme"
+}
