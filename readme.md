@@ -8,6 +8,7 @@ EasyUtils is a lightweight JavaScript library that provides a set of helper func
 
 Adds two numbers and returns the result.
 
+
 ```javascript
 var result = EasyUtils.addNumbers(5, 7);
 // Output: 12
