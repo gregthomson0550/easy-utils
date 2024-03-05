@@ -1,9 +1,7 @@
 
 var EasyUtils = (function () {
     // Private helper function
-    function add(a, b) {
-      return a + b;
-    }
+    function add(a, b) { return a + b;}
   
     // Public functions
     return {
